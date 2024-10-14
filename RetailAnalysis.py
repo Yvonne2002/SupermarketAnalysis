@@ -1,6 +1,6 @@
 # Supermarket Sales Analysis Project
-# Author: [Your Name]
-# Date: [Current Date]
+# Author: Yvonne Mwangi
+# Date: 3th September 2024
 
 # Step 1: Import Necessary Libraries
 import pandas as pd
